@@ -1,6 +1,6 @@
-<!-- Metadata: Brand=Banana; Model=BananaX; Year=2026; DocType=Third-party Review; Visibility=Public -->
+<!-- Metadata: Brand=Banana; SubjectBrand=Banana; SubjectModel=BananaX; Year=2026; DocType=review; ContentMode=Synthetic; EvidencePolicy=InternalOnly; SourceReliability=TestData -->
 
-# TechRadar 深度评测：BananaX，夜视仪级别的影像怪兽
+# 模拟第三方深度评测：BananaX，夜视仪级别的影像怪兽
 
 > **语料声明：** 以下是为 RAG 长文本检索设计的虚构媒体评测，不代表 TechRadar 的真实内容、观点或测试结论；BananaX 的规格、场景、性能均为合成信息。
 

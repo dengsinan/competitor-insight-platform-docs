@@ -1,4 +1,4 @@
-<!-- Metadata: Brand=Apple|Samsung|Banana; Model=iPhone 16 Pro|Galaxy S25 Ultra|Banana 9; Year=2025; DocType=Macro Report; Visibility=Public -->
+<!-- Metadata: Brand=Banana; SubjectBrand=Banana; SubjectModel=Banana9; MentionedBrands=Apple|Samsung|Google|Xiaomi|OPPO|vivo|Huawei; MentionedModels=iPhone 16 Pro|Galaxy S25 Ultra|Pixel 10 Pro|Xiaomi 15 Ultra|Find X9 Pro|X300 Pro|Mate 80 Pro; Year=2025; DocType=market_report; ContentMode=Synthetic; EvidencePolicy=InternalOnly; SourceReliability=TestData -->
 
 # 2025 年全球高端智能手机市场份额回溯分析
 

@@ -1,4 +1,4 @@
-<!-- Metadata: Brand=Banana; Model=BananaX; Year=2026; DocType=Public Specs; Visibility=Public -->
+<!-- Metadata: Brand=Banana; SubjectBrand=Banana; SubjectModel=BananaX; Year=2026; DocType=specs; ContentMode=Synthetic; EvidencePolicy=InternalOnly; SourceReliability=TestData -->
 
 # BananaX 核心产品白皮书与详细参数表
 

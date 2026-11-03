@@ -1,6 +1,6 @@
-<!-- Metadata: Brand=Banana; Model=BananaX; Year=2026; DocType=Third-party Review; Visibility=Public -->
+<!-- Metadata: Brand=Banana; SubjectBrand=Banana; SubjectModel=BananaX; Year=2026; DocType=review; ContentMode=Synthetic; EvidencePolicy=InternalOnly; SourceReliability=TestData -->
 
-# iFixit 拆解报告：BananaX 内部做工与可修复性分析
+# 模拟拆解报告：BananaX 内部做工与可修复性分析
 
 > **语料声明：** 本文是针对生僻结构词与物理细节检索的虚构拆解报告，不代表 iFixit 的真实拆解、评分或建议；所有尺寸、结构与结论均为合成数据。
 

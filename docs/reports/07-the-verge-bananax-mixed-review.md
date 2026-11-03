@@ -1,6 +1,6 @@
-<!-- Metadata: Brand=Banana; Model=BananaX; Year=2026; DocType=Third-party Review; Visibility=Public -->
+<!-- Metadata: Brand=Banana; SubjectBrand=Banana; SubjectModel=BananaX; Year=2026; DocType=review; ContentMode=Synthetic; EvidencePolicy=InternalOnly; SourceReliability=TestData -->
 
-# The Verge 评测：BananaX 硬件无敌，但这些小缺点让人遗憾
+# 模拟第三方评测：BananaX 硬件无敌，但这些小缺点让人遗憾
 
 > **语料声明：** 本文为 RAG 混合情绪识别而创作的虚构媒体评测，不能代表 The Verge 的真实立场或产品测试。所有型号、软件行为与技术数字均为合成测试内容。
 

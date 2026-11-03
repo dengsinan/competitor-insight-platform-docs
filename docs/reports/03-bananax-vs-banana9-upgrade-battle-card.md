@@ -1,4 +1,4 @@
-<!-- Metadata: Brand=Banana; Model=BananaX|Banana 9; Year=2025|2026; DocType=Battle Card; Visibility=Internal -->
+<!-- Metadata: Brand=Banana; SubjectBrand=Banana; SubjectModel=BananaX|Banana9; Year=2025|2026; DocType=battle_card; ContentMode=Synthetic; EvidencePolicy=InternalOnly; SourceReliability=TestData -->
 
 # BananaX vs Banana 9 升级对标指南
 

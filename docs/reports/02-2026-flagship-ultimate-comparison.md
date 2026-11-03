@@ -1,4 +1,4 @@
-<!-- Metadata: Brand=Banana; Model=BananaX|iPhone 17 Pro Max|Galaxy S26 Ultra; Year=2026; DocType=Public Specs; Visibility=Public -->
+<!-- Metadata: Brand=Banana; SubjectBrand=Banana; SubjectModel=BananaX; MentionedBrands=Apple|Samsung; MentionedModels=iPhone 17 Pro Max|Galaxy S26 Ultra; Year=2026; DocType=specs; ContentMode=Synthetic; EvidencePolicy=InternalOnly; SourceReliability=TestData -->
 
 # 2026 旗舰手机终极横评：BananaX vs iPhone 17 Pro Max vs Galaxy S26 Ultra
 

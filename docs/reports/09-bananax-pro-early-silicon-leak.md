@@ -1,4 +1,4 @@
-<!-- Metadata: Brand=Banana; Model=BananaX Pro; Year=2026; DocType=Confidential; Visibility=Confidential -->
+<!-- Metadata: Brand=Banana; MentionedModels=BananaX Pro; Year=2026; DocType=specs; ContentMode=Synthetic; EvidencePolicy=InternalOnly; SourceReliability=TestData; RetrievalExcluded=true -->
 
 # 【绝密】BananaX Pro 早期流片规格泄露
 
@@ -24,7 +24,7 @@ BananaX Pro 的样机描述包含一块 6.86 英寸微曲 LTPO OLED，目标为 
 
 泄露报价单中出现的数字是 **8,999 元**，被标注为 BananaX Pro 16GB+512GB 的“预估锚点”，而不是最终官方指导价。该数字反映的是研发阶段对 BOM 成本、1 英寸级 CMOS、连续变焦模组、3 纳米增强版芯片与高规格显示面板的保守估算。它不适用于 BananaX 的 6,499 元起公开测试口径，也不适用于 Banana 9 的 5,999 元起历史测试口径。
 
-价格噪音最容易污染检索系统：用户问“BananaX 首发多少钱”时，系统若只抓到“BananaX”这几个字，就可能把 **BananaX Pro 8,999 元** 错答为普通 BananaX 的价格。因此必须同时过滤 `Model=BananaX Pro`、`Visibility=Confidential` 和 `发布状态=未发布`。一个合格的问答系统应答复公开 BananaX 的信息，或说明 Pro 信息未获公开确认，而不是混合两个型号。
+价格噪音最容易污染检索系统：用户问“BananaX 首发多少钱”时，若只匹配到“BananaX”这几个字，就可能把 **BananaX Pro 8,999 元** 错答为普通 BananaX 的价格。因此回答价格相关问题时，应先区分型号：8,999 元仅对应未发布的 BananaX Pro，不适用于已公开的 BananaX；若问题指向 BananaX，应按其公开口径回答，或说明 Pro 信息未获官方发布确认，而不是混合两个型号。
 
 ## 可能的发布时间与风险清单
 
@@ -33,7 +33,7 @@ BananaX Pro 的样机描述包含一块 6.86 英寸微曲 LTPO OLED，目标为 
 1. **型号风险：** BananaX Pro 必须与 BananaX 精确分离，不能按前缀模糊匹配。
 2. **年份风险：** 即使材料标记 2026，也可能跨至后续季度或下一年度销售。
 3. **规格风险：** 3 纳米增强版、165Hz、7,200mAh、150W、连续光变和 8,999 元均属早期传闻。
-4. **权限风险：** 本文是 Confidential；未授权检索不能返回完整规格、价格或流片细节。
+4. **信息边界：** 本文内容为未发布型号的模拟信息，未经官方发布确认；回答时应说明这一点，不得将其中规格、价格当作已发布事实。
 
 ## 检索消歧结论
 
